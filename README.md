@@ -1,4 +1,4 @@
-# Predict-Customer-Sentiment-
+# Predict-Customer-Sentiment
 In today’s competitive world where Airlines companies are struggling to maintain their margin it becomes imperative to not only add new set of customers to the portfolio but equally important is retaining the customer loyalty. Understanding your current customer reaction to the services is key to maintaining a strong relationship.  Business wants to capture the customer feedback shared in Twitter about the flying experience of recent time which company  wants to understand and act upon; any negative sentiment has to be identified on a near real time basis  and customer should be reached out to understand the problem and also get themes around complaints to put in place a strategic plan.
 
 
